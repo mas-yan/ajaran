@@ -1,0 +1,35 @@
+h2{
+	text-align: center;
+	color: blue;
+	padding-top: 10%;
+}
+.bp{
+	width: 100px;
+	height: 100px;
+	left: 120px;
+	top: -50px;
+	position: absolute;
+	border-radius: 30%
+}
+.isi{
+	position: absolute;
+	width: 350px;
+	height: 510px;
+	left: 35%;
+	top: 13%;
+	border-style: solid;
+}
+body{
+	background-color: white;
+	background-size: cover;
+	font-family: sans-serif;
+	background-color: rgb(195,197,200);
+}
+.mr{
+	background-color: black;
+}
+.mr .ar{
+	color: white;
+	text-align: center;
+	font-size: 15px;
+}
